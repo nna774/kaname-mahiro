@@ -1,3 +1,5 @@
+packaged-template.yml
+
 *.gem
 *.rbc
 /.config
